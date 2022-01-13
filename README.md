@@ -1,5 +1,10 @@
-### Hi there 👋
+### 반가워요! 👋
 
+#### 한국에 사는 개발자, "틸토"에요 :)
+
+조용히 개발하는 걸 좋아해요. 가장 애용하는 건 TypeScript!
+
+요즘은 게임 개발에 눈독 들이고 있어요 👀
 <!--
 **tilto0822/tilto0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
