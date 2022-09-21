@@ -1,21 +1,28 @@
-### 반가워요! 👋
+<div align="center">
 
-#### 한국에 사는 개발자, "틸토"에요 :)
+### 반가워요! 👋 
 
-조용히 개발하는 걸 좋아해요. 가장 애용하는 건 TypeScript!
+### 재미를 찾아다니는 개발자, "틸토"에요 :)
 
-요즘은 게임 개발에 눈독 들이고 있어요 👀
-<!--
-**tilto0822/tilto0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F68212?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=for-the-badge&logo=Styled-components&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"/><br/>
+</div>
+
+<br />
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilto0822&layout=compact)
+
+</div>
