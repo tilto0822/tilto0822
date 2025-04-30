@@ -1,26 +1,6 @@
-<div>
-
 ## 👋 Hello!
 
-<!-- <br />
-
-돌아보면 어릴 적부터 컴퓨터 앞에 앉아있었습니다.
-
-버튼을 누를 때마다 화면이 바뀌고, 코드를 한 줄 한 줄 적어나갈 때마다 기능이 만들어졌습니다.
-
-그렇게 성장해가며 어느새 훌륭한 동료들과 함께 멋진 아이디어의 서비스들을 만들어나가고 있습니다.
-
-<b>“조금이나마 더 나은 세상을 만들어가는 개발자”</b>라는 모토를 가슴에 안고, 오늘도 또 한 줄의 코드를 적고 있습니다.
-
-<br /> --!>
-
-</div>
-
-<!--
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tilto0822&theme=github-light&locale=ko&mode=weekly&card_width=460&fire=6145EB&background=45%2CEBE3F4%2CDABFFF&border=6145EB&ring=6145EB&currStreakNum=6145EB&stroke=6145EB&sideNums=6145EB&dates=6145EB" alt="GitHub Streak" /></a>
-</div>
---!>
+😄
 
 ## 💎 Favorite techs
 <div>
@@ -41,7 +21,3 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
-
-<br/>
-
-</div>
