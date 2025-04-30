@@ -1,8 +1,8 @@
 <div>
 
-## 👋 반가워요!
+## 👋 Hello!
 
-<br />
+<!-- <br />
 
 돌아보면 어릴 적부터 컴퓨터 앞에 앉아있었습니다.
 
@@ -12,15 +12,17 @@
 
 <b>“조금이나마 더 나은 세상을 만들어가는 개발자”</b>라는 모토를 가슴에 안고, 오늘도 또 한 줄의 코드를 적고 있습니다.
 
-<br />
+<br /> --!>
 
 </div>
 
+<!--
 <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tilto0822&theme=github-light&locale=ko&mode=weekly&card_width=460&fire=6145EB&background=45%2CEBE3F4%2CDABFFF&border=6145EB&ring=6145EB&currStreakNum=6145EB&stroke=6145EB&sideNums=6145EB&dates=6145EB" alt="GitHub Streak" /></a>
 </div>
+--!>
 
-## 💎 주로 사용하는 기술들
+## 💎 Favorite techs
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-F68212?style=for-the-badge&logo=CSS3&logoColor=white"/>
